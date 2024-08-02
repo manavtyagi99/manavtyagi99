@@ -1,4 +1,4 @@
-![logo](https://github.com/manavtyagi99/manavtyagi99/blob/main/farzad-p-xSl33Wxyc-unsplash.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Manav Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
