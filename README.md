@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavtyagi99&label=Profile%20views&color=0e75b6&style=flat" alt="manavtyagi99" /> </p>
 
-- 🔭 I’m currently working on **Currently Studying Computer Science**
-
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Front-end Development**
